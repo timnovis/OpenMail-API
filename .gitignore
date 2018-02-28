@@ -2,4 +2,6 @@ node_modules
 dist
 .env
 config/local.js
+package-lock.json
+.DS_Store
 tmp/
